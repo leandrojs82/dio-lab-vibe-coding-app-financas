@@ -1,11 +1,5 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
-Perfeito. Segue a **versão do README.md com a informação do link do projeto adicionada**, já no padrão esperado para repositório público no GitHub.
-
-Você pode **substituir o README atual** ou apenas copiar a seção indicada.
-
----
-
 # Finanças por Conversa
 
 Aplicativo de organização de finanças pessoais baseado em **conversa em linguagem natural**, com foco em **Design Universal** e acessibilidade.
